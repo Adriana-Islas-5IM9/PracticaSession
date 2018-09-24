@@ -9,6 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="sources/css/bootstrap-grid.min.css">
+        <link rel="stylesheet" href="sources/css/bootstrap.min.css">
+        <link href="css/grayscale.min.css" rel="stylesheet">
         <title>JSP Page</title>
     </head>
     <body>
