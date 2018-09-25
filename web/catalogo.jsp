@@ -17,7 +17,7 @@
     <body>
        <h1>Ejemplo de Sesiones</h1>
         <br>
-        <a href="/EjemploSession/ValidaSesionesServlet">
+        <a href="/PracticaSession/ValidaSesionesServlet">
           validar el valor de la sesion
         </a>
     </body>

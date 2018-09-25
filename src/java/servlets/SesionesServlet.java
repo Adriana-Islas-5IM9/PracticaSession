@@ -32,7 +32,7 @@ public class SesionesServlet extends HttpServlet {
         //Mostramos los  valores en el cliente
         PrintWriter out = response.getWriter();
 
-        out.println("<a href=\"/EjemploSession/catalogo.jsp\"> Link al catalogo del carrito  </a>");
+        out.println("<a href=\"/PracticaSession/catalogo.jsp\"> Link al catalogo del carrito  </a>");
         out.println("<br>");
         out.println("ID de la sesi&oacute;n: " + sesion.getId());
     }
